@@ -41,6 +41,9 @@
 .big-footer-height{height: 300px}
 .footer-height{height: 50px}
 
+.h-200{height: 200px}
+.h-100{height: 100px}
+
 
 @media screen and (max-width: 600px)
 {
@@ -65,13 +68,13 @@
     .col-m11{width: 91.66%}
     .col-m12{width: 100%}
     .d-none{display: none;}
-    .position-relative{
-        position: relative;
-    }
-    .search-div{
-        position: absolute;
-        right: 0px;
-    }
+    /*.position-relative{*/
+    /*    position: relative;*/
+    /*}*/
+    /*.search-div{*/
+    /*    position: absolute;*/
+    /*    right: 0px;*/
+    /*}*/
 }
 
 
